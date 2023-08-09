@@ -1,0 +1,310 @@
+  9 Pupin					(76, 14)		Uppermost	Left	    h	
+ 19 SchapiroCEPSR				(143, 20)	Uppermost	Mid-width   n 	
+ 28 Mudd&EngTerrace&Fairchild&CS			(223, 34)	Uppermost	Right	    h 
+ 38 NorthwestCorner				(16, 40)		Uppermost	Leftmost	    v 
+ 47 Uris						(142, 99)	Uppermost	Mid-width    v 		
+ 57 Schermerhorn					(233, 120)	Upper		Right-most   h 
+ 66 Chandler&Havemeyer				(37, 120)	Upper		Leftmost	     n  		
+ 76 OldComputerCenter				(96, 136)	Upper		Mid-width    n				
+ 85 Avery					(204, 175)	Upper		Right	     v		
+ 94 Fayerweather					(259, 176)	Upper		Right-most   v			
+104 Mathematics					(17, 182)	Mid-height	Leftmost	     v	
+113 LowLibrary					(135, 221)	Mid-height	Mid-width.    n	
+123 StPaulChapel					(226, 222)	Mid-height	Right	     h
+132 EarlHall					(49, 221)	Mid-height	Left	     n
+142 Lewisohn					(17, 259)	Mid-height	Leftmost	     v	
+151 Philosophy					(258, 263)	Mid-height	Right-most.   v	
+161 Buell					(208, 253)	Lower		Right	      n	
+170 AlmaMater					(136, 276)	Lower		Mid-width.     n			
+179 Dodge					(41, 301)	Lower		Left	     h	
+189 Kent						(233, 300)	Lower		Right-most.   h	
+198 CollegeWalk					(137, 322)	Lower		Mid-width.    h	
+208 Journalism&Furnald				(30, 363)	lowermost	Leftmost	      n	
+217 Hamilton&Hartley&Wallach&JohnJay		(240, 417)	lowermost	Right-most.    v	
+236 Lerner					(38, 446)	lowermost	Left	      h
+246 ButlerLibrary				(132, 460)	lowermost	Mid-width.    h	
+255 Carman					(38, 479)	lowermost	Left	      h	
+
+
+						height,width	
+  9 Pupin					(25, 77)		-52	horizontal	
+ 19 SchapiroCEPSR				(35, 41)		-6	non-oriented
+ 28 Mudd&EngTerrace&Fairchild&CS			(84, 107)	-23	horizontal
+ 38 NorthwestCorner				(74, 27)		47	vertical	
+ 47 Uris						(100, 66)	34	vertical			
+ 57 Schermerhorn					(71, 93)		-22	horizontal
+ 66 Chandler&Havemeyer				(67, 78)		-11	non-oriented	
+ 76 OldComputerCenter				(23, 14)		9	non-oriented			
+ 85 Avery					(51, 25)		26	vertical	
+ 94 Fayerweather					(51, 26)		25	vertical	
+104 Mathematics					(49, 29)		20	vertical	
+113 LowLibrary					(70, 69)		1	non-oriented		
+123 StPaulChapel					(25, 51)		-26	horizontal
+132 EarlHall					(23, 38)		-15	non-oriented
+142 Lewisohn					(53, 29)		24	vertical		
+151 Philosophy					(47, 28)		19	vertical	
+161 Buell					(16, 25)		-9	non-oriented		
+170 AlmaMater					(15, 15)		0	non-oriented		
+179 Dodge					(23, 78)		-55	horizontal	
+189 Kent						(21, 79)		-58	horizontal	
+198 CollegeWalk					(18, 275)	-257	horizontal	
+208 Journalism&Furnald				(77, 78)		-1	non-oriented		
+217 Hamilton&Hartley&Wallach&JohnJay		(153, 80)	73	vertical		
+236 Lerner					(42, 70)		-28	horizontal	
+246 ButlerLibrary				(60, 95)		-35	horizontal		
+255 Carman					(22, 70)		-48	horizontal	
+
+negative means horizontally oriented, positive means vertically oriented
+
+
+[1640, 1435, 5831, 1998, 5753, 3911, 3613, 322, 1164, 1182, 1191, 3898, 1087, 759, 1307, 1085, 340, 225, 1590, 1470, 4950, 2615, 5855, 2940, 5282, 1540]
+
+
+
+
+
+
+  9 Pupin					(76, 14)		Uppermost	Left	    	
+ 19 SchapiroCEPSR				(143, 20)	Uppermost	Mid-width   n 	
+ 28 Mudd&EngTerrace&Fairchild&CS			(223, 34)	Uppermost	Right	     
+ 38 NorthwestCorner				(16, 40)		Uppermost	Leftmost	     
+ 47 Uris						(142, 99)	Uppermost	Mid-width    v 	
+
+	
+
+ 57 Schermerhorn					(233, 120)	Upper		Right-most   h 
+ 66 Chandler&Havemeyer				(37, 120)	Upper		Leftmost	       		
+ 76 OldComputerCenter				(96, 136)	Upper		Mid-width    				
+ 85 Avery					(204, 175)	Upper		Right	     		
+ 94 Fayerweather					(259, 176)	Upper		Right-most   v	
+
+
+		
+104 Mathematics					(17, 182)	Mid-height	Leftmost	     v	
+113 LowLibrary					(135, 221)	Mid-height	Mid-width.    	
+123 StPaulChapel					(226, 222)	Mid-height	Right	     
+132 EarlHall					(49, 221)	Mid-height	Left	     
+142 Lewisohn					(17, 259)	Mid-height	Leftmost	     v	
+151 Philosophy					(258, 263)	Mid-height	Right-most.  	
+
+
+161 Buell					(208, 253)	Lower		Right	      	
+170 AlmaMater					(136, 276)	Lower		Mid-width.     n			
+179 Dodge					(41, 301)	Lower		Left	     	
+189 Kent						(233, 300)	Lower		Right-most.   	
+198 CollegeWalk					(137, 322)	Lower		Mid-width.     h	
+
+
+208 Journalism&Furnald				(30, 363)	lowermost	Leftmost	      	
+217 Hamilton&Hartley&Wallach&JohnJay		(240, 417)	lowermost	Right-most.   	
+236 Lerner					(38, 446)	lowermost	Left	      h
+246 ButlerLibrary				(132, 460)	lowermost	Mid-width.    	
+255 Carman					(38, 479)	lowermost	Left	      h	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  9 Pupin				1539	Mid-Size		77	.32	wide.  	14
+ 19 SchapiroCEPSR			1360	Mid-Size		41	.85	medium	4
+ 28 Mudd&EngTerrace&Fairchild&CS		5870	Largest		107	.78	medium	11		
+ 38 NorthwestCorner			1898	Mid-Size		27	2.74	narrow	4	
+ 47 Uris					5606	Largest		66	1.52	narrow	10		
+ 57 Schermerhorn				3696	Large		93	.76	medium	16		
+ 66 Chandler&Havemeyer			3429	Large 		78	.85	medium	16		
+ 76 OldComputerCenter			286	Smallest		14	1.64	narrow	4					
+ 85 Avery				1090	Small		25	2.04	narrow	8		
+ 94 Fayerweather				1108	Small		26	1.96	narrow	12		
+104 Mathematics				1106	Small		29	1.69	narrow	12		
+113 LowLibrary				3782	Large		69	1.01	medium	16		
+123 StPaulChapel				1020	Small		51	.49	wide	 10
+132 EarlHall				706	Small		38	.61	medium	 12	
+142 Lewisohn				1218	Mid-Size		29	1.83	narrow.    12 
+151 Philosophy				1002	Small		28	1.68	narrow.  12
+161 Buell				302	Smallest		25	.64	medium	 12
+170 AlmaMater				196	Smallest		15	1	medium   4
+179 Dodge				1485	Mid-Size		78	.29	wide	8
+189 Kent					1365	Mid-Size		79	.27	wide.   8
+198 CollegeWalk				4658	Largest		275	.07	wide	 4 
+208 Journalism&Furnald			2444	Large		78	.99	medium	 13
+217 Hamilton&Hartley&Wallach&JohnJay	5532	Largest		80	1.91	narrow	 9	
+236 Lerner				2829	Large		70	.6	wide.    4
+246 ButlerLibrary			5130	Largest		95	.63	medium	 12
+255 Carman				1449	Mid-Size		70	.31	wide	  4
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 76 OldComputerCenter				Smallest		Na	
+161 Buell					Smallest		Me	I
+170 AlmaMater					Smallest		Me	square
+123 StPaulChapel					Small		Wi	
+132 EarlHall					Small		Me	
+ 85 Avery					Small		Na	C	
+ 94 Fayerweather					Small		Na	rectangle	
+104 Mathematics					Small		Na	rectangle	
+151 Philosophy					Small		Na	I
+179 Dodge					Mid-Size		Wi	C
+189 Kent						Mid-Size		Wi	C
+255 Carman					Mid-Size		Wi	rectangle
+  9 Pupin					Mid-Size		Wi	rectangle	
+ 19 SchapiroCEPSR				Mid-Size		Me		
+ 38 NorthwestCorner				Mid-Size		Na	rectangle
+142 Lewisohn					Mid-Size		Na	I
+ 57 Schermerhorn					Large		Me	L
+ 66 Chandler&Havemeyer				Large		Me	L
+113 LowLibrary					Large		Me	square
+208 Journalism&Furnald				Large		Me	Asymetrical	
+236 Lerner					Large		Wi	
+ 28 Mudd&EngTerrace&Fairchild&CS			Largest		Me	Asymmetrical
+ 47 Uris						Largest		Na	rectangle
+198 CollegeWalk					Largest		Wi	
+246 ButlerLibrary				Largest		Me	I
+217 Hamilton&Hartley&Wallach&JohnJay		Largest		Na	Asymmetrical	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source S, Target T:
+
+
+ 47 Uris						(142, 99) pupin, schpcpsr, mud,schermr, occ, avery	 		
+ 57 Schermerhorn					(233, 120) mudd, uris, schermer, avery, fayerwe	
+ 66 Chandler&Havemeyer				(37, 120) noco, chand&h, oldcomputer, math	  		
+ 76 OldComputerCenter				(96, 136) noco, uris, c&H, occ, math, lowlib, earl					
+ 85 Avery					(204, 175) uris, schrmr, avry, fayer, low, stpaul, phil, buell 	
+ 94 Fayerweather					(259, 176)				
+104 Mathematics					(17, 182)		
+113 LowLibrary					(135, 221)		
+123 StPaulChapel					(226, 222)	
+132 EarlHall					(49, 221)	
+142 Lewisohn					(17, 259)		
+151 Philosophy					(258, 263)	
+161 Buell					(208, 253)		
+170 AlmaMater					(136, 276)	
+179 Dodge					(41, 301)		
+189 Kent						(233, 300)	
+198 CollegeWalk					(137, 322)	
+208 Journalism&Furnald				(30, 363)	
+217 Hamilton&Hartley&Wallach&JohnJay		(240, 417)	
+236 Lerner					(38, 446)	
+246 ButlerLibrary				(132, 460)	
+255 Carman					(38, 479)		
+
+
+Source T, Target S:
+
+  9 Pupin					(76, 14)	  
+ 19 SchapiroCEPSR				(143, 20) 
+ 28 Mudd&EngTerrace&Fairchild&CS			(223, 34)   	
+ 38 NorthwestCorner				(16, 40)	 
+ 47 Uris						(142, 99)	 		
+ 57 Schermerhorn					(233, 120)	
+ 66 Chandler&Havemeyer				(37, 120)	  		
+ 76 OldComputerCenter				(96, 136)					
+ 85 Avery					(204, 175)	
+ 94 Fayerweather					(259, 176)				
+104 Mathematics					(17, 182)		
+113 LowLibrary					(135, 221)		
+123 StPaulChapel					(226, 222)	
+132 EarlHall					(49, 221)	
+142 Lewisohn					(17, 259)		
+151 Philosophy					(258, 263)	
+161 Buell					(208, 253)		
+170 AlmaMater					(136, 276)	
+179 Dodge					(41, 301)		
+189 Kent						(233, 300)	
+198 CollegeWalk					(137, 322)	
+208 Journalism&Furnald				(30, 363)	
+217 Hamilton&Hartley&Wallach&JohnJay		(240, 417)	
+236 Lerner					(38, 446)	
+246 ButlerLibrary				(132, 460)	
+255 Carman					(38, 479)		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
